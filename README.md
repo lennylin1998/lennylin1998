@@ -9,16 +9,20 @@ Thank you for visiting! Feel free to contact me via my email if you have any que
 # Project Catalog
 ## Exploratory Data Analysis
 ### [Waste Generation in Taiwan](https://github.com/lennylin1998/Exporing-Waste-Generation-in-Taiwan)
-- Tools: pandas, plotly
+- Tools/Libraries: pandas, plotly
 ### [My Running Stat](https://github.com/lennylin1998/Analyze-My-Own-Running-Stats)
-- Tools: MS Excel
-## Data Visualization
+- Tools/Libraries: MS Excel
+## Tableau Dashboard
+I have been practicing creating dashboards or visually stunning charts with Tableau. Generally the topics are just what I found interesting. There are codes of my data cleaning process in the repositories. For final results, please visit my [Tableau Public Profile Page](https://public.tableau.com/app/profile/lenny.lin)!
 ### [NBA Team Wining Rate Analysis](https://github.com/lennylin1998/Sports-Analysis-Projects)
-- Tools: selenium, beautifulsoup4, pandas, Tableau
+- Tools/Libraries: selenium, beautifulsoup4, pandas
 ### [Covid-19 in Taiwan](https://github.com/lennylin1998/Public-Issues-Analysis-Projects)
-- Tools: pandas, Tableau
-## Regression Models for Prediction
+- Tools/Libraries: pandas
+### [Taiwan Inbound and Outound Analysis](https://github.com/lennylin1998/Taiwan-Inbound-and-Outbound-Analysis)
+- Tools/Libraries: pandas
+## Machine Learning
 ### [Waste Prediction Based on GDP](https://github.com/lennylin1998/Waste-Prediction-Based-on-GDP)
-- Tools: numpy, pandas, plotly, sklearn 
+- Algorithm: Linear Regression/ KNN Regression
+- Tools/Libraries: numpy, pandas, plotly, sklearn 
 
 
