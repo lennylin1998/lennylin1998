@@ -1,12 +1,16 @@
 # Greetings
-Hi, welcome to my github:sunglasses:! I’m Lenny Lin, a newbie now playing in the **Data Sceince** field. I have plenty of projects well documented in each repository.    
-
-I have categorized all the prjects by techniques used. If you are interested in any specific data science skills or algorithm, the catalog is down below. 
+Hi, welcome to my github:sunglasses:! I’m Lenny Lin. For the past few months, I have done plenty of projects regarding data science or machine learning, but lately I found myself falling in love with **web development**. As I have finished Harvard CS50, I will put my final project in the also put my final project down below.     
 
 If you have no preference on where to start exploring, go for the pinned ones! They are my favorite works that I have done recently. 
 
 Thank you for visiting! Feel free to contact me via my email if you have any questions or feedbacks!
 # Project Catalog
+## Web Development
+### [CS50 Final Project - myFridge]()
+- Tools: Flask, jinja, DataTable
+## Python Web Scraping Pipeline
+### [Streaming Platform Analysis]()
+- Tools: request, bs4, pandas, multithread, sklearn
 ## Exploratory Data Analysis
 ### [Waste Generation in Taiwan](https://github.com/lennylin1998/Exporing-Waste-Generation-in-Taiwan)
 - Tools/Libraries: pandas, plotly
