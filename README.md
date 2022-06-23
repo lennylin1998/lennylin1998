@@ -9,7 +9,7 @@ Thank you for visiting! Feel free to contact me via my email if you have any que
 ### [CS50 Final Project - myFridge]()
 - Tools: Flask, jinja, DataTable
 ## Python Web Scraping Pipeline
-### [Streaming Platform Analysis]()
+### [Streaming Platform Analysis](https://github.com/lennylin1998/Streaming-Platform-Analysis)
 - Tools: request, bs4, pandas, multithread, sklearn
 ## Exploratory Data Analysis
 ### [Waste Generation in Taiwan](https://github.com/lennylin1998/Exporing-Waste-Generation-in-Taiwan)
